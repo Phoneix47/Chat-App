@@ -17,5 +17,7 @@
     width: auto;
    height: 400px;
    border-radius: 10px;
+   overflow-x: hidden;
+   overflow-y: auto;
 }
 
